@@ -1,0 +1,17 @@
+| Week         | Date       | Phase                      | Main Tasks                                                                                   | Deliverable                       | Status  |
+| ------------ | ---------- | -------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------- | ------- |
+| Week 1       | 2026-05-14 | Project Selection          | Choose VL6180 Range TOF Finder sensor; complete first class sheet; post choice on Blackboard | Project selected                  | Planned |
+| Week 2       | 2026-05-21 | BOM and Roadmap            | Complete BOM; order required parts; submit proof of purchase; create roadmap                 | BOM and roadmap submitted         | Planned |
+| Week 3       | 2026-05-28 | KiCad and Gerbers          | Learn KiCad; start PCB design; review I2C pull-up connections; prepare Gerber files          | Gerbers prepared                  | Planned |
+| Week 4       | 2026-06-04 | Enclosure Planning         | Plan sensor placement, mounting brackets, cable routing, and detection demo setup            | Case plan completed               | Planned |
+| Week 5       | 2026-06-11 | Soldering Resistors        | Practice soldering and begin PCB assembly                                                    | Resistors/components started      | Planned |
+| Week 6       | 2026-06-18 | Soldering Vias             | Continue PCB soldering and check board connections                                           | PCB assembly continued            | Planned |
+| Week 7       | 2026-06-25 | Enclosure and Assembly     | Mount boards, standoffs, wiring, LEDs, and VL6180 sensor setup                               | Basic hardware assembled          | Planned |
+| Reading Week | 2026-07-01 | Parts Arrival and Catch-Up | Check ordered parts; test loose components; verify I2C communication                         | Parts checked                     | Planned |
+| Week 8       | 2026-07-09 | Firmware Coding            | Enable I2C; connect VL6180 sensor; write Python distance measurement code                    | Distance measurement code started | Planned |
+| Week 9       | 2026-07-16 | PCB Testing                | Test PCB, VL6180 readings, power stability, and Qwiic/Grove connections                      | Prototype tested                  | Planned |
+| Week 10      | 2026-07-23 | Presentation Slides        | Create slides with system diagram, wiring, PCB role, and sensor demo plan                    | Slides completed                  | Planned |
+| Week 11      | 2026-07-30 | Troubleshooting            | Fix wiring, sensor calibration, distance accuracy, and power issues                          | Prototype improved                | Planned |
+| Week 12      | 2026-08-06 | Hardware Demonstration     | Demonstrate distance detection and real-time sensor readings                                 | Working hardware demo             | Planned |
+| Week 13      | 2026-08-13 | Final Presentation         | Present VL6180 hardware design and working prototype                                         | Final presentation completed      | Planned |
+| Week 14      | 2026-08-20 | Hardware Report            | Write build instructions, parts list, wiring steps, code notes, and testing results          | Final report submitted            | Planned |
